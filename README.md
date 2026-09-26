@@ -3,7 +3,7 @@
 **Nº 4 de 49 na ordem de execução.** ID do projeto: P04.
 
 **Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
-- CD/N1-04 e 05 — Pandas: transformação e manipulação; limpeza e tratamento
+- CD/N1-04 e 05 - Pandas: transformação e manipulação; limpeza e tratamento
 
 Dado de sensor de processo quase nunca chega pronto pra usar. Vem com leitura fora da faixa
 física, sensor travado repetindo o último valor, trecho gravado na unidade errada, buraco na
