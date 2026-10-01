@@ -1,6 +1,6 @@
 # P04. Pipeline de limpeza de dados de processo
 
-**Nº 4 de 49 na ordem de execução.** ID do projeto: P04.
+**Nº 4 de 48 na ordem de execução.** ID do projeto: P04.
 
 **Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
 - CD/N1-04 e 05 - Pandas: transformação e manipulação; limpeza e tratamento
